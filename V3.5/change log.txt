@@ -1,0 +1,17 @@
+Schematic:
+1.Changed Micro USB B
+2.Changed the position of LDR and R12£¬add pull-up resistor R20.
+
+pin1 voltage: [R12 & R20 are tested]
+condition                       value
+total darkness               around 3.0V
+normal condition          2.5V
+with phone's flashlight around  2.0V
+MOSFET S output
+in any condition above 
+<=0.3V
+
+3.Add P-channel Mosfet
+4.Changed Camera's 3.3V port, named it MOSFET_CONTROL
+
+ERC & DRC check
