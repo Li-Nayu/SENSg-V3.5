@@ -1,7 +1,6 @@
 SENSg-V3.5
 ==========
-
-###National Science Experiment: SENsg,  Large-scale Internet of Things Sensor Deployment in Singapore
+<h5>National Science Experiment: SENsg,  Large-scale Internet of Things Sensor Deployment in Singapore</h5>
 
 #Overview
 V3.5 of SENSg is developed during my exchange period in SUTD, Singapore. Thanks to Professor Wilhelm Erik's kind guidance.
