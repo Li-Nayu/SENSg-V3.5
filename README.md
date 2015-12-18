@@ -6,6 +6,6 @@ SENSg-V3.5
 V3.5 of SENSg is developed during my exchange period in SUTD, Singapore. Thanks to Professor Wilhelm Erik's kind guidance.
 
 #Change Log
-* Add P-channel MOSFET as the power switch for camera. MOSFET is controlled by MCU pin1, which is also the LDR sensor's I/O pin. 
+* Add P-channel MOSFET as the power switch for camera. MOSFET is controlled by MCU pin1, which is also the LDR sensor's GPIO pin. 
 * With a pull-up resistor, the camera won't on unless the pin1 gives a low voltage. Also the camera's VCC input is changed to MOSFET's source.
 * All changes were tested.
