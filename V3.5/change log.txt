@@ -1,5 +1,5 @@
 Schematic:
-1.Changed Micro USB B
+1.Changed to Micro USB B.lbr
 2.Changed the position of LDR and R12£¬add pull-up resistor R20.
 
 pin1 voltage: [R12 & R20 are tested]
